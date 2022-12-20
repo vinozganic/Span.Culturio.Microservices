@@ -1,0 +1,83 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>Span.Culturio.CultureObjects</name>
+    </assembly>
+    <members>
+        <member name="M:Span.Culturio.CultureObjects.Controllers.CultureObjectController.Post(Span.Culturio.Core.Models.CultureObject.CreateCultureObjectDto)">
+            <summary>
+            Create new culture object
+            </summary>
+        </member>
+        <member name="M:Span.Culturio.CultureObjects.Controllers.CultureObjectController.Get">
+            <summary>
+            Get culture objects
+            </summary>
+        </member>
+        <member name="M:Span.Culturio.CultureObjects.Controllers.CultureObjectController.Get(System.Int32)">
+            <summary>
+            Get culture object by Id
+            </summary>
+        </member>
+        <member name="T:Span.Culturio.CultureObjects.Migrations.AddedCultureObjects">
+            <inheritdoc />
+        </member>
+        <member name="M:Span.Culturio.CultureObjects.Migrations.AddedCultureObjects.Up(Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder)">
+            <inheritdoc />
+        </member>
+        <member name="M:Span.Culturio.CultureObjects.Migrations.AddedCultureObjects.Down(Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder)">
+            <inheritdoc />
+        </member>
+        <member name="M:Span.Culturio.CultureObjects.Migrations.AddedCultureObjects.BuildTargetModel(Microsoft.EntityFrameworkCore.ModelBuilder)">
+            <inheritdoc />
+        </member>
+        <member name="T:Span.Culturio.CultureObjects.Migrations.Updated">
+            <inheritdoc />
+        </member>
+        <member name="M:Span.Culturio.CultureObjects.Migrations.Updated.Up(Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder)">
+            <inheritdoc />
+        </member>
+        <member name="M:Span.Culturio.CultureObjects.Migrations.Updated.Down(Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder)">
+            <inheritdoc />
+        </member>
+        <member name="M:Span.Culturio.CultureObjects.Migrations.Updated.BuildTargetModel(Microsoft.EntityFrameworkCore.ModelBuilder)">
+            <inheritdoc />
+        </member>
+        <member name="T:Span.Culturio.CultureObjects.Migrations.Updated2">
+            <inheritdoc />
+        </member>
+        <member name="M:Span.Culturio.CultureObjects.Migrations.Updated2.Up(Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder)">
+            <inheritdoc />
+        </member>
+        <member name="M:Span.Culturio.CultureObjects.Migrations.Updated2.Down(Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder)">
+            <inheritdoc />
+        </member>
+        <member name="M:Span.Culturio.CultureObjects.Migrations.Updated2.BuildTargetModel(Microsoft.EntityFrameworkCore.ModelBuilder)">
+            <inheritdoc />
+        </member>
+        <member name="T:Span.Culturio.CultureObjects.Migrations.Updated3">
+            <inheritdoc />
+        </member>
+        <member name="M:Span.Culturio.CultureObjects.Migrations.Updated3.Up(Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder)">
+            <inheritdoc />
+        </member>
+        <member name="M:Span.Culturio.CultureObjects.Migrations.Updated3.Down(Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder)">
+            <inheritdoc />
+        </member>
+        <member name="M:Span.Culturio.CultureObjects.Migrations.Updated3.BuildTargetModel(Microsoft.EntityFrameworkCore.ModelBuilder)">
+            <inheritdoc />
+        </member>
+        <member name="T:Span.Culturio.CultureObjects.Migrations.Updated4">
+            <inheritdoc />
+        </member>
+        <member name="M:Span.Culturio.CultureObjects.Migrations.Updated4.Up(Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder)">
+            <inheritdoc />
+        </member>
+        <member name="M:Span.Culturio.CultureObjects.Migrations.Updated4.Down(Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder)">
+            <inheritdoc />
+        </member>
+        <member name="M:Span.Culturio.CultureObjects.Migrations.Updated4.BuildTargetModel(Microsoft.EntityFrameworkCore.ModelBuilder)">
+            <inheritdoc />
+        </member>
+    </members>
+</doc>

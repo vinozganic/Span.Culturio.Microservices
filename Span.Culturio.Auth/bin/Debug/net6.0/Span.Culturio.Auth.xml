@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>Span.Culturio.Auth</name>
+    </assembly>
+    <members>
+        <member name="M:Span.Culturio.Auth.Controllers.AuthController.RegisterUser(Span.Culturio.Core.Models.Users.CreateUserDto)">
+            <summary>
+            Register new user
+            </summary>
+        </member>
+        <member name="M:Span.Culturio.Auth.Controllers.AuthController.Login(Span.Culturio.Core.Models.Auth.LoginDto)">
+            <summary>
+            Login
+            </summary>
+        </member>
+    </members>
+</doc>

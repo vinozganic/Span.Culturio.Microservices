@@ -1,0 +1,44 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>Span.Culturio.Subscriptions</name>
+    </assembly>
+    <members>
+        <member name="T:Span.Culturio.Subscriptions.Migrations.Updated">
+            <inheritdoc />
+        </member>
+        <member name="M:Span.Culturio.Subscriptions.Migrations.Updated.Up(Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder)">
+            <inheritdoc />
+        </member>
+        <member name="M:Span.Culturio.Subscriptions.Migrations.Updated.Down(Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder)">
+            <inheritdoc />
+        </member>
+        <member name="M:Span.Culturio.Subscriptions.Migrations.Updated.BuildTargetModel(Microsoft.EntityFrameworkCore.ModelBuilder)">
+            <inheritdoc />
+        </member>
+        <member name="T:Span.Culturio.Subscriptions.Migrations.Updated2">
+            <inheritdoc />
+        </member>
+        <member name="M:Span.Culturio.Subscriptions.Migrations.Updated2.Up(Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder)">
+            <inheritdoc />
+        </member>
+        <member name="M:Span.Culturio.Subscriptions.Migrations.Updated2.Down(Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder)">
+            <inheritdoc />
+        </member>
+        <member name="M:Span.Culturio.Subscriptions.Migrations.Updated2.BuildTargetModel(Microsoft.EntityFrameworkCore.ModelBuilder)">
+            <inheritdoc />
+        </member>
+        <member name="T:Span.Culturio.Subscriptions.Migrations.Updated3">
+            <inheritdoc />
+        </member>
+        <member name="M:Span.Culturio.Subscriptions.Migrations.Updated3.Up(Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder)">
+            <inheritdoc />
+        </member>
+        <member name="M:Span.Culturio.Subscriptions.Migrations.Updated3.Down(Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder)">
+            <inheritdoc />
+        </member>
+        <member name="M:Span.Culturio.Subscriptions.Migrations.Updated3.BuildTargetModel(Microsoft.EntityFrameworkCore.ModelBuilder)">
+            <inheritdoc />
+        </member>
+    </members>
+</doc>

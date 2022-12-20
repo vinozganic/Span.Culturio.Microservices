@@ -1,0 +1,31 @@
+{
+  "version": 2,
+  "dgSpecHash": "wDjZPlv2t+wUAJTepe21aOHwe0jLVlyk/QiSCfS3lMWskrARuSxv8XzNRtssoKZoeVMxpgLWwXLjiEqwjDL1qQ==",
+  "success": true,
+  "projectFilePath": "/Users/jakovvinozganic/Projects/Span.Culturio.Microservices/Span.Culturio.Core/Span.Culturio.Core.csproj",
+  "expectedPackageFiles": [
+    "/Users/jakovvinozganic/.nuget/packages/automapper/12.0.0/automapper.12.0.0.nupkg.sha512",
+    "/Users/jakovvinozganic/.nuget/packages/automapper.extensions.microsoft.dependencyinjection/12.0.0/automapper.extensions.microsoft.dependencyinjection.12.0.0.nupkg.sha512",
+    "/Users/jakovvinozganic/.nuget/packages/fluentvalidation/11.4.0/fluentvalidation.11.4.0.nupkg.sha512",
+    "/Users/jakovvinozganic/.nuget/packages/fluentvalidation.aspnetcore/11.2.2/fluentvalidation.aspnetcore.11.2.2.nupkg.sha512",
+    "/Users/jakovvinozganic/.nuget/packages/fluentvalidation.dependencyinjectionextensions/11.4.0/fluentvalidation.dependencyinjectionextensions.11.4.0.nupkg.sha512",
+    "/Users/jakovvinozganic/.nuget/packages/microsoft.csharp/4.7.0/microsoft.csharp.4.7.0.nupkg.sha512",
+    "/Users/jakovvinozganic/.nuget/packages/microsoft.extensions.apidescription.server/6.0.5/microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
+    "/Users/jakovvinozganic/.nuget/packages/microsoft.extensions.dependencyinjection/7.0.0/microsoft.extensions.dependencyinjection.7.0.0.nupkg.sha512",
+    "/Users/jakovvinozganic/.nuget/packages/microsoft.extensions.dependencyinjection.abstractions/7.0.0/microsoft.extensions.dependencyinjection.abstractions.7.0.0.nupkg.sha512",
+    "/Users/jakovvinozganic/.nuget/packages/microsoft.extensions.dependencymodel/3.1.6/microsoft.extensions.dependencymodel.3.1.6.nupkg.sha512",
+    "/Users/jakovvinozganic/.nuget/packages/microsoft.extensions.options/6.0.0/microsoft.extensions.options.6.0.0.nupkg.sha512",
+    "/Users/jakovvinozganic/.nuget/packages/microsoft.extensions.primitives/6.0.0/microsoft.extensions.primitives.6.0.0.nupkg.sha512",
+    "/Users/jakovvinozganic/.nuget/packages/microsoft.openapi/1.3.1/microsoft.openapi.1.3.1.nupkg.sha512",
+    "/Users/jakovvinozganic/.nuget/packages/scrutor/3.3.0/scrutor.3.3.0.nupkg.sha512",
+    "/Users/jakovvinozganic/.nuget/packages/swashbuckle.aspnetcore/6.4.0/swashbuckle.aspnetcore.6.4.0.nupkg.sha512",
+    "/Users/jakovvinozganic/.nuget/packages/swashbuckle.aspnetcore.filters/7.0.6/swashbuckle.aspnetcore.filters.7.0.6.nupkg.sha512",
+    "/Users/jakovvinozganic/.nuget/packages/swashbuckle.aspnetcore.filters.abstractions/7.0.6/swashbuckle.aspnetcore.filters.abstractions.7.0.6.nupkg.sha512",
+    "/Users/jakovvinozganic/.nuget/packages/swashbuckle.aspnetcore.swagger/6.4.0/swashbuckle.aspnetcore.swagger.6.4.0.nupkg.sha512",
+    "/Users/jakovvinozganic/.nuget/packages/swashbuckle.aspnetcore.swaggergen/6.4.0/swashbuckle.aspnetcore.swaggergen.6.4.0.nupkg.sha512",
+    "/Users/jakovvinozganic/.nuget/packages/swashbuckle.aspnetcore.swaggerui/6.4.0/swashbuckle.aspnetcore.swaggerui.6.4.0.nupkg.sha512",
+    "/Users/jakovvinozganic/.nuget/packages/system.runtime.compilerservices.unsafe/6.0.0/system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512",
+    "/Users/jakovvinozganic/.nuget/packages/system.text.json/4.7.2/system.text.json.4.7.2.nupkg.sha512"
+  ],
+  "logs": []
+}

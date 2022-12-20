@@ -1,0 +1,66 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>Span.Culturio.Packages</name>
+    </assembly>
+    <members>
+        <member name="M:Span.Culturio.Packages.Controllers.PackageController.CreatePackageAsync(Span.Culturio.Core.Models.Package.CreatePackageDto)">
+            <summary>
+            Create a new package
+            </summary>
+        </member>
+        <member name="M:Span.Culturio.Packages.Controllers.PackageController.GetPackagesAsync">
+            <summary>
+            Get packages
+            </summary>
+        </member>
+        <member name="T:Span.Culturio.Packages.Migrations.Initial">
+            <inheritdoc />
+        </member>
+        <member name="M:Span.Culturio.Packages.Migrations.Initial.Up(Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder)">
+            <inheritdoc />
+        </member>
+        <member name="M:Span.Culturio.Packages.Migrations.Initial.Down(Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder)">
+            <inheritdoc />
+        </member>
+        <member name="M:Span.Culturio.Packages.Migrations.Initial.BuildTargetModel(Microsoft.EntityFrameworkCore.ModelBuilder)">
+            <inheritdoc />
+        </member>
+        <member name="T:Span.Culturio.Packages.Migrations.Updated">
+            <inheritdoc />
+        </member>
+        <member name="M:Span.Culturio.Packages.Migrations.Updated.Up(Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder)">
+            <inheritdoc />
+        </member>
+        <member name="M:Span.Culturio.Packages.Migrations.Updated.Down(Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder)">
+            <inheritdoc />
+        </member>
+        <member name="M:Span.Culturio.Packages.Migrations.Updated.BuildTargetModel(Microsoft.EntityFrameworkCore.ModelBuilder)">
+            <inheritdoc />
+        </member>
+        <member name="T:Span.Culturio.Packages.Migrations.Updated2">
+            <inheritdoc />
+        </member>
+        <member name="M:Span.Culturio.Packages.Migrations.Updated2.Up(Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder)">
+            <inheritdoc />
+        </member>
+        <member name="M:Span.Culturio.Packages.Migrations.Updated2.Down(Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder)">
+            <inheritdoc />
+        </member>
+        <member name="M:Span.Culturio.Packages.Migrations.Updated2.BuildTargetModel(Microsoft.EntityFrameworkCore.ModelBuilder)">
+            <inheritdoc />
+        </member>
+        <member name="T:Span.Culturio.Packages.Migrations.Updated3">
+            <inheritdoc />
+        </member>
+        <member name="M:Span.Culturio.Packages.Migrations.Updated3.Up(Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder)">
+            <inheritdoc />
+        </member>
+        <member name="M:Span.Culturio.Packages.Migrations.Updated3.Down(Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder)">
+            <inheritdoc />
+        </member>
+        <member name="M:Span.Culturio.Packages.Migrations.Updated3.BuildTargetModel(Microsoft.EntityFrameworkCore.ModelBuilder)">
+            <inheritdoc />
+        </member>
+    </members>
+</doc>

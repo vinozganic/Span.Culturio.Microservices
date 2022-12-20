@@ -1,0 +1,12 @@
+/Users/jakovvinozganic/Projects/Span.Culturio.Microservices/Span.Culturio.Core/bin/Debug/net6.0/Span.Culturio.Core.deps.json
+/Users/jakovvinozganic/Projects/Span.Culturio.Microservices/Span.Culturio.Core/bin/Debug/net6.0/Span.Culturio.Core.dll
+/Users/jakovvinozganic/Projects/Span.Culturio.Microservices/Span.Culturio.Core/bin/Debug/net6.0/Span.Culturio.Core.pdb
+/Users/jakovvinozganic/Projects/Span.Culturio.Microservices/Span.Culturio.Core/obj/Debug/net6.0/Span.Culturio.Core.csproj.AssemblyReference.cache
+/Users/jakovvinozganic/Projects/Span.Culturio.Microservices/Span.Culturio.Core/obj/Debug/net6.0/Span.Culturio.Core.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jakovvinozganic/Projects/Span.Culturio.Microservices/Span.Culturio.Core/obj/Debug/net6.0/Span.Culturio.Core.AssemblyInfoInputs.cache
+/Users/jakovvinozganic/Projects/Span.Culturio.Microservices/Span.Culturio.Core/obj/Debug/net6.0/Span.Culturio.Core.AssemblyInfo.cs
+/Users/jakovvinozganic/Projects/Span.Culturio.Microservices/Span.Culturio.Core/obj/Debug/net6.0/Span.Culturio.Core.csproj.CoreCompileInputs.cache
+/Users/jakovvinozganic/Projects/Span.Culturio.Microservices/Span.Culturio.Core/obj/Debug/net6.0/Span.Culturio.Core.dll
+/Users/jakovvinozganic/Projects/Span.Culturio.Microservices/Span.Culturio.Core/obj/Debug/net6.0/refint/Span.Culturio.Core.dll
+/Users/jakovvinozganic/Projects/Span.Culturio.Microservices/Span.Culturio.Core/obj/Debug/net6.0/Span.Culturio.Core.pdb
+/Users/jakovvinozganic/Projects/Span.Culturio.Microservices/Span.Culturio.Core/obj/Debug/net6.0/ref/Span.Culturio.Core.dll

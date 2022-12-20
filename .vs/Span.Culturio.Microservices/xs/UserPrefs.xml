@@ -1,0 +1,79 @@
+﻿<Properties StartupConfiguration="{424C6E4A-8BF0-41BD-A7F1-7A4760F27688}|Default">
+  <MonoDevelop.Ide.DebuggingService.Breakpoints />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.Span.Culturio.Auth PreferredExecutionTarget="/System/Volumes/Preboot/Cryptexes/App/System/Applications/Safari.app" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Span.Culturio.Auth/Services/AuthService.cs">
+    <Files>
+      <File FileName="Span.Culturio.Auth/Program.cs" Line="22" Column="1" />
+      <File FileName="Span.Culturio.Core/StartupHelpers.cs" Line="21" Column="15" />
+      <File FileName="Span.Culturio.Auth/Span.Culturio.Auth.csproj" Line="22" Column="14" />
+      <File FileName="Span.Culturio.Auth/Data/DataContext.cs" Line="21" Column="6" />
+      <File FileName="Span.Culturio.Auth/Entities/User.cs" Line="30" Column="6" />
+      <File FileName="Span.Culturio.Auth/Helpers/UserHelper.cs" Line="52" Column="12" />
+      <File FileName="Span.Culturio.Auth/appsettings.json" Line="15" Column="2" />
+      <File FileName="Span.Culturio.Users/Program.cs" Line="16" Column="1" />
+      <File FileName="Span.Culturio.Auth/Data/Entities/User.cs" Line="17" Column="17" />
+      <File FileName="Span.Culturio.Users/appsettings.json" Line="14" Column="6" />
+      <File FileName="Span.Culturio.Users/Controllers/UsersController.cs" Line="41" Column="6" />
+      <File FileName="Span.Culturio.Users/Services/IUserService.cs" Line="10" Column="18" />
+      <File FileName="Span.Culturio.Users/Services/UserService.cs" Line="22" Column="1" />
+      <File FileName="Span.Culturio.Core/Models/Users/UserDto.cs" Line="12" Column="2" />
+      <File FileName="Span.Culturio.Core/Models/Users/UsersDto.cs" Line="11" Column="1" />
+      <File FileName="Span.Culturio.Core/Models/Users/CreateUserDto.cs" Line="25" Column="2" />
+      <File FileName="Span.Culturio.Users/Profiles/UserProfile.cs" Line="17" Column="1" />
+      <File FileName="Span.Culturio.Users/Dockerfile" Line="17" Column="46" />
+      <File FileName="docker-compose.yml" Line="26" Column="22" />
+      <File FileName="Span.Culturio.Auth/Profiles/AuthProfile.cs" Line="13" Column="46" />
+      <File FileName="Span.Culturio.Auth/IAuthService.cs" Line="10" Column="53" />
+      <File FileName="Span.Culturio.Auth/Services/AuthService.cs" Line="38" Column="1" />
+      <File FileName="Span.Culturio.Core/Models/Auth/LoginDto.cs" Line="6" Column="42" />
+      <File FileName="Span.Culturio.Core/Models/Auth/AuthDto.cs" Line="11" Column="1" />
+      <File FileName="Span.Culturio.Auth/Helpers/AuthHelper.cs" Line="17" Column="14" />
+      <File FileName="Span.Culturio.Auth/Controllers/AuthController.cs" Line="27" Column="40" />
+      <File FileName="Span.Culturio.Auth/Dockerfile" Line="17" Column="48" />
+      <File FileName="Span.Culturio.Auth/Data/DataContext.cs" Line="15" Column="10" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Option id="ShowAllFiles" value="True" />
+          <Node name="Span.Culturio.Microservices" expanded="True">
+            <Node name="Span.Culturio.Auth" expanded="True">
+              <Node name="Dependencies" expanded="True" selected="True">
+                <Node name="ProjectDependencies" expanded="True" />
+              </Node>
+              <Node name="Controllers" expanded="True" />
+              <Node name="Data" expanded="True">
+                <Node name="Entities" expanded="True" />
+              </Node>
+              <Node name="Helpers" expanded="True" />
+              <Node name="Profiles" expanded="True" />
+              <Node name="Services" expanded="True" />
+            </Node>
+            <Node name="Span.Culturio.Core" expanded="True">
+              <Node name="Dependencies" expanded="True" />
+              <Node name="Models" expanded="True">
+                <Node name="Auth" expanded="True" />
+                <Node name="Users" expanded="True" />
+              </Node>
+            </Node>
+            <Node name="Span.Culturio.Users" expanded="True">
+              <Node name="Dependencies" expanded="True">
+                <Node name="PackageDependencies" expanded="True" />
+              </Node>
+              <Node name="Controllers" expanded="True" />
+              <Node name="Data" expanded="True">
+                <Node name="Entities" expanded="True" />
+              </Node>
+              <Node name="Helpers" expanded="True" />
+              <Node name="Profiles" expanded="True" />
+              <Node name="Services" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+</Properties>
