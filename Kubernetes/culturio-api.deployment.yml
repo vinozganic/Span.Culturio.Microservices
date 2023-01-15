@@ -1,0 +1,19 @@
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  labels:
+    app: culturio-api
+  name: culturio-api
+spec:
+  replicas: 1
+  selector:
+    matchLabels:
+      app: culturio-api
+  template:
+    metadata:
+      labels:
+        app: culturio-api
+    spec:
+      containers:
+      - image: culturiojv.azurecr.io/culturio-api:latest
+        name: culturio-api

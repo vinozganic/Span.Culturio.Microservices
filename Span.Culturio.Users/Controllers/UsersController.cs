@@ -6,7 +6,7 @@ using Span.Culturio.Core.Models.Users;
 
 namespace Span.Culturio.Users.Controllers
 {
-    [Route("/users")]
+    [Route("api/users")]
     [ApiController]
     public class UserController : ControllerBase
     {
@@ -30,7 +30,7 @@ namespace Span.Culturio.Users.Controllers
         /// <summary>
         /// Get single user by Id
         /// </summary>
-        [HttpGet("/users/{id}")]
+        [HttpGet("{id}")]
         public async Task<ActionResult<UserDto>> GetUserByIdAsync(int id)
         {
             var user = await _userService.GetUserByIdAsync(id);

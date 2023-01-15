@@ -1,0 +1,24 @@
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  labels:
+    app: culturio-packages
+  name: culturio-packages
+spec:
+  replicas: 1
+  selector:
+    matchLabels:
+      app: culturio-packages
+  template:
+    metadata:
+      labels:
+        app: culturio-packages
+    spec:
+      containers:
+      - image: culturiojv.azurecr.io/culturio-packages:latest
+        name: culturio-packages
+        env:
+        - name: ConnectionStrings__DefaultConnection
+          value: "Server=tcp:culturio-jv-server.database.windows.net,1433;Initial Catalog=packages;Persist Security Info=False;User ID=sqladmin;Password=Password123;MultipleActiveResultSets=False;Encrypt=True;TrustServerCertificate=False;Connection Timeout=30;"
+        - name: Endpoints__Packages
+          value: "http://culturio-api/packages/"

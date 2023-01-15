@@ -5,7 +5,7 @@ using Span.Culturio.Subscriptions.Services;
 
 namespace Span.Culturio.Subscriptions.Controllers
 {
-    [Route("api/[controller]")]
+    [Route("api/subcriptions")]
     [ApiController]
     public class SubscriptionController : ControllerBase
     {

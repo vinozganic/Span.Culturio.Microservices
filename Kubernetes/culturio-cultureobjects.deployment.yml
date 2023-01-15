@@ -1,0 +1,22 @@
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  labels:
+    app: culturio-cultureobjects
+  name: culturio-cultureobjects
+spec:
+  replicas: 1
+  selector:
+    matchLabels:
+      app: culturio-cultureobjects
+  template:
+    metadata:
+      labels:
+        app: culturio-cultureobjects
+    spec:
+      containers:
+      - image: culturiojv.azurecr.io/culturio-cultureobjects:latest
+        name: culturio-cultureobjects
+        env:
+        - name: ConnectionStrings__DefaultConnection
+          value: "Server=tcp:culturio-jv-server.database.windows.net,1433;Initial Catalog=cultureobjects;Persist Security Info=False;User ID=sqladmin;Password=Password123;MultipleActiveResultSets=False;Encrypt=True;TrustServerCertificate=False;Connection Timeout=30;"
